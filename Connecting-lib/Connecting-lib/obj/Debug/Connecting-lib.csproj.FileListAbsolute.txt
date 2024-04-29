@@ -1,0 +1,10 @@
+C:\Users\ömer\source\repos\Connecting-lib\Connecting-lib\bin\Debug\Connecting-lib.exe.config
+C:\Users\ömer\source\repos\Connecting-lib\Connecting-lib\bin\Debug\Connecting-lib.exe
+C:\Users\ömer\source\repos\Connecting-lib\Connecting-lib\bin\Debug\Connecting-lib.pdb
+C:\Users\ömer\source\repos\Connecting-lib\Connecting-lib\obj\Debug\Connecting-lib.csproj.AssemblyReference.cache
+C:\Users\ömer\source\repos\Connecting-lib\Connecting-lib\obj\Debug\Connecting_lib.Properties.Resources.resources
+C:\Users\ömer\source\repos\Connecting-lib\Connecting-lib\obj\Debug\Connecting-lib.csproj.GenerateResource.cache
+C:\Users\ömer\source\repos\Connecting-lib\Connecting-lib\obj\Debug\Connecting-lib.csproj.CoreCompileInputs.cache
+C:\Users\ömer\source\repos\Connecting-lib\Connecting-lib\obj\Debug\Connecting-lib.exe
+C:\Users\ömer\source\repos\Connecting-lib\Connecting-lib\obj\Debug\Connecting-lib.pdb
+C:\Users\ömer\source\repos\Connecting-lib\Connecting-lib\obj\Debug\Connecting_lib.Form1.resources
