@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF6E84B-E668-475F-885E-3B4DB110501E}|connect\\connect.csproj|C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\mysqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF6E84B-E668-475F-885E-3B4DB110501E}|connect\\connect.csproj|solutionrelative:connect\\mysqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF6E84B-E668-475F-885E-3B4DB110501E}|connect\\connect.csproj|c:\\users\\\u00F6mer\\documents\\github\\baglantilar\\connect\\connect\\accesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF6E84B-E668-475F-885E-3B4DB110501E}|connect\\connect.csproj|solutionrelative:connect\\accesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF6E84B-E668-475F-885E-3B4DB110501E}|connect\\connect.csproj|C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\sqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF6E84B-E668-475F-885E-3B4DB110501E}|connect\\connect.csproj|solutionrelative:connect\\sqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF6E84B-E668-475F-885E-3B4DB110501E}|connect\\connect.csproj|C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\sql_ekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF6E84B-E668-475F-885E-3B4DB110501E}|connect\\connect.csproj|solutionrelative:connect\\sql_ekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF6E84B-E668-475F-885E-3B4DB110501E}|connect\\connect.csproj|C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\sqlupdate_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CF6E84B-E668-475F-885E-3B4DB110501E}|connect\\connect.csproj|solutionrelative:connect\\sqlupdate_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF6E84B-E668-475F-885E-3B4DB110501E}|connect\\connect.csproj|C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\sql_ekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CF6E84B-E668-475F-885E-3B4DB110501E}|connect\\connect.csproj|solutionrelative:connect\\sql_ekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF6E84B-E668-475F-885E-3B4DB110501E}|connect\\connect.csproj|C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF6E84B-E668-475F-885E-3B4DB110501E}|connect\\connect.csproj|solutionrelative:connect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF6E84B-E668-475F-885E-3B4DB110501E}|connect\\connect.csproj|C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CF6E84B-E668-475F-885E-3B4DB110501E}|connect\\connect.csproj|solutionrelative:connect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF6E84B-E668-475F-885E-3B4DB110501E}|connect\\connect.csproj|C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\sqldelete_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CF6E84B-E668-475F-885E-3B4DB110501E}|connect\\connect.csproj|solutionrelative:connect\\sqldelete_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF6E84B-E668-475F-885E-3B4DB110501E}|connect\\connect.csproj|C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\sqldelete_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF6E84B-E668-475F-885E-3B4DB110501E}|connect\\connect.csproj|solutionrelative:connect\\sqldelete_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF6E84B-E668-475F-885E-3B4DB110501E}|connect\\connect.csproj|C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\sqlupdate_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF6E84B-E668-475F-885E-3B4DB110501E}|connect\\connect.csproj|solutionrelative:connect\\sqlupdate_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 53,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sqldata.cs",
+              "DocumentMoniker": "C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\sqldata.cs",
+              "RelativeDocumentMoniker": "connect\\sqldata.cs",
+              "ToolTip": "C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\sqldata.cs",
+              "RelativeToolTip": "connect\\sqldata.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAAiwNwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:11:19.283Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "accesdata.cs",
+              "DocumentMoniker": "C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\accesdata.cs",
+              "RelativeDocumentMoniker": "connect\\accesdata.cs",
+              "ToolTip": "C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\accesdata.cs",
+              "RelativeToolTip": "connect\\accesdata.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAiwDkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:31:24.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mysqldata.cs",
+              "DocumentMoniker": "C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\mysqldata.cs",
+              "RelativeDocumentMoniker": "connect\\mysqldata.cs",
+              "ToolTip": "C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\mysqldata.cs",
+              "RelativeToolTip": "connect\\mysqldata.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:47:56.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sql_ekle.cs",
+              "DocumentMoniker": "C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\sql_ekle.cs",
+              "RelativeDocumentMoniker": "connect\\sql_ekle.cs",
+              "ToolTip": "C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\sql_ekle.cs",
+              "RelativeToolTip": "connect\\sql_ekle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:44:40.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sqlupdate_frm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\sqlupdate_frm.cs",
+              "RelativeDocumentMoniker": "connect\\sqlupdate_frm.cs",
+              "ToolTip": "C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\sqlupdate_frm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "connect\\sqlupdate_frm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:49:11.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "sqlupdate_frm.cs",
+              "DocumentMoniker": "C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\sqlupdate_frm.cs",
+              "RelativeDocumentMoniker": "connect\\sqlupdate_frm.cs",
+              "ToolTip": "C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\sqlupdate_frm.cs",
+              "RelativeToolTip": "connect\\sqlupdate_frm.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:21:44.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "sqldelete_frm.cs",
+              "DocumentMoniker": "C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\sqldelete_frm.cs",
+              "RelativeDocumentMoniker": "connect\\sqldelete_frm.cs",
+              "ToolTip": "C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\sqldelete_frm.cs",
+              "RelativeToolTip": "connect\\sqldelete_frm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:45:44.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sqldelete_frm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\sqldelete_frm.cs",
+              "RelativeDocumentMoniker": "connect\\sqldelete_frm.cs",
+              "ToolTip": "C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\sqldelete_frm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "connect\\sqldelete_frm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:38:57.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sql_ekle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\sql_ekle.cs",
+              "RelativeDocumentMoniker": "connect\\sql_ekle.cs",
+              "ToolTip": "C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\sql_ekle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "connect\\sql_ekle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:17:01.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\Form1.cs",
+              "RelativeDocumentMoniker": "connect\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\Form1.cs",
+              "RelativeToolTip": "connect\\Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:12:17.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\Form1.cs",
+              "RelativeDocumentMoniker": "connect\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u00F6mer\\Documents\\GitHub\\baglantilar\\connect\\connect\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "connect\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:10:46.478Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

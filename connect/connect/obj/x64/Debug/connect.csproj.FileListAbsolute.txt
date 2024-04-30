@@ -1,0 +1,13 @@
+C:\Users\ömer\Documents\GitHub\baglantilar\connect\connect\bin\x64\Debug\connect.exe.config
+C:\Users\ömer\Documents\GitHub\baglantilar\connect\connect\bin\x64\Debug\connect.exe
+C:\Users\ömer\Documents\GitHub\baglantilar\connect\connect\bin\x64\Debug\connect.pdb
+C:\Users\ömer\Documents\GitHub\baglantilar\connect\connect\obj\x64\Debug\connect.csproj.AssemblyReference.cache
+C:\Users\ömer\Documents\GitHub\baglantilar\connect\connect\obj\x64\Debug\connect.Form1.resources
+C:\Users\ömer\Documents\GitHub\baglantilar\connect\connect\obj\x64\Debug\connect.Properties.Resources.resources
+C:\Users\ömer\Documents\GitHub\baglantilar\connect\connect\obj\x64\Debug\connect.sqldelete_frm.resources
+C:\Users\ömer\Documents\GitHub\baglantilar\connect\connect\obj\x64\Debug\connect.sqlupdate_frm.resources
+C:\Users\ömer\Documents\GitHub\baglantilar\connect\connect\obj\x64\Debug\connect.sql_ekle.resources
+C:\Users\ömer\Documents\GitHub\baglantilar\connect\connect\obj\x64\Debug\connect.csproj.GenerateResource.cache
+C:\Users\ömer\Documents\GitHub\baglantilar\connect\connect\obj\x64\Debug\connect.csproj.CoreCompileInputs.cache
+C:\Users\ömer\Documents\GitHub\baglantilar\connect\connect\obj\x64\Debug\connect.exe
+C:\Users\ömer\Documents\GitHub\baglantilar\connect\connect\obj\x64\Debug\connect.pdb
