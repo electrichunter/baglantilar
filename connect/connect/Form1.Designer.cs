@@ -31,6 +31,7 @@
             this.SqlEkle_btn = new System.Windows.Forms.Button();
             this.Sqlupdate_btn = new System.Windows.Forms.Button();
             this.SqlDelete_btn = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // SqlEkle_btn
@@ -63,11 +64,22 @@
             this.SqlDelete_btn.UseVisualStyleBackColor = true;
             this.SqlDelete_btn.Click += new System.EventHandler(this.SqlDelete_btn_Click);
             // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(356, 35);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(196, 162);
+            this.button3.TabIndex = 3;
+            this.button3.Text = "frebase veri ekleme ";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(354, 744);
+            this.ClientSize = new System.Drawing.Size(791, 744);
+            this.Controls.Add(this.button3);
             this.Controls.Add(this.SqlDelete_btn);
             this.Controls.Add(this.Sqlupdate_btn);
             this.Controls.Add(this.SqlEkle_btn);
@@ -83,6 +95,7 @@
         private System.Windows.Forms.Button SqlEkle_btn;
         private System.Windows.Forms.Button Sqlupdate_btn;
         private System.Windows.Forms.Button SqlDelete_btn;
+        private System.Windows.Forms.Button button3;
     }
 }
 

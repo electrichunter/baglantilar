@@ -54,5 +54,12 @@ namespace connect
             sqlupdate.Show();
             this.Hide();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+          frebaseekle fek = new frebaseekle();
+           fek.Show();
+            this.Hide();
+        }
     }
 }
